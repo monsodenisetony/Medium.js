@@ -3,6 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
+    
     "hash": "a1e17a0c8bd1f45ed85a675c1a7cdc8b",
     "packages": [
         {
@@ -16,6 +17,7 @@
             },
             "type": "library"
         },
+        
         {
             "name": "undojs/undojs",
             "version": "1",
@@ -42,6 +44,6 @@
 
     ],
     "platform-dev": [
-
+        
     ]
 }
